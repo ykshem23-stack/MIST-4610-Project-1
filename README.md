@@ -65,10 +65,10 @@ Query 3 evaluates economic efficiency in relation to environmental impact. This 
 4.  Query 4 lists each country, its GDP, GDP per tax percentage, and a tax category (High or Low). 
 Query 4 examines whether higher taxes suppress economic growth. This could influence fiscal policy decisions or corporate investment strategies by highlighting countries where tax burden corresponds with economic performance.
 
-<img width="701" height="296" alt="query4" src="https://github.com/user-attachments/assets/c2f72fd9-578e-44b8-b4c5-97629c3be5f2" />
+<img width="312" height="237" alt="query4" src="https://github.com/user-attachments/assets/72d8cd9b-3a24-4b10-b40d-0ed05b7f3312" />
 <img width="386" height="296" alt="query4_result" src="https://github.com/user-attachments/assets/2019a620-7a27-4b1f-9867-45cb552bb7b6" />
 
-5.  Query 5 lists each country, its population, GDP, and GDP per capita. 
+6.  Query 5 lists each country, its population, GDP, and GDP per capita. 
 Query 5 measures economic output per person, helping analysts compare living standards or evaluate economic efficiency. These insights can support development planning or global market assessments.
 
 <img width="204" height="98" alt="query5" src="https://github.com/user-attachments/assets/c00a8afe-e83b-4c1c-8096-58c38f437727" />
