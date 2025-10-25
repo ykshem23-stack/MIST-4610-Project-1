@@ -60,42 +60,49 @@ Query 2 provides insight into the relationship between educational investment an
 Query 3 evaluates economic efficiency in relation to environmental impact. This analysis could inform sustainability programs or investment in green technologies by showing which countries produce higher GDP per unit of pollution.
 
 <img width="231" height="109" alt="query 3" src="https://github.com/user-attachments/assets/7d517ea3-7cfc-4635-a390-b51e3f245a1d" />
+<img width="338" height="296" alt="query3_result" src="https://github.com/user-attachments/assets/91a1e61a-b84f-4235-b2d6-cd99b828b0e2" />
 
 4.  Query 4 lists each country, its GDP, GDP per tax percentage, and a tax category (High or Low). 
 Query 4 examines whether higher taxes suppress economic growth. This could influence fiscal policy decisions or corporate investment strategies by highlighting countries where tax burden corresponds with economic performance.
 
 <img width="351" height="148" alt="query4" src="https://github.com/user-attachments/assets/c2f72fd9-578e-44b8-b4c5-97629c3be5f2" />
+<img width="386" height="296" alt="query4_result" src="https://github.com/user-attachments/assets/2019a620-7a27-4b1f-9867-45cb552bb7b6" />
 
 5.  Query 5 lists each country, its population, GDP, and GDP per capita. 
 Query 5 measures economic output per person, helping analysts compare living standards or evaluate economic efficiency. These insights can support development planning or global market assessments.
 
 <img width="204" height="98" alt="query5" src="https://github.com/user-attachments/assets/c00a8afe-e83b-4c1c-8096-58c38f437727" />
+<img width="299" height="296" alt="query5_result" src="https://github.com/user-attachments/assets/d20ec1df-0a1b-4320-9418-a7df1a23d909" />
 
 6.  Query 6 lists each country, its sustainability score, normalized score within its region, and rank in the region. 
 Query 6 identifies the top environmentally sustainable countries per region. The results could guide ecological initiatives, international aid programs, or investment in countries with strong environmental management practices. 
 
 <img width="208" height="110" alt="query6" src="https://github.com/user-attachments/assets/a331483d-d8cf-4b9f-8e48-69742a26485a" />
+<img width="379" height="299" alt="query6_result" src="https://github.com/user-attachments/assets/038db7ff-b294-4373-81b2-2cf2ef0f7007" />
 
 7.  Query 7 lists each country, GDP, GDP per population density, and a density category (Above or Below Average). 
 Query 7 explores how population concentration affects economic output. This information could assist in urban planning, infrastructure development, or population management policies by showing where high density correlates with economic efficiency. 
 
 <img width="286" height="221" alt="query7" src="https://github.com/user-attachments/assets/c9b8735e-828d-4ece-a97d-dae3462befb7" />
+<img width="473" height="298" alt="query7_result" src="https://github.com/user-attachments/assets/7a50339c-d20c-435d-834a-089761e6637d" />
 
 8.  Query 8 lists each currency, and the average GDP of countries using that currency. 
 Query 8 highlights which currencies are associated with the highest economic output. This can inform investment decisions, currency risk analysis, and international economic comparisons. 
 
 <img width="263" height="111" alt="query8" src="https://github.com/user-attachments/assets/74ecf6e5-5904-4900-8c87-42544fca1d8f" />
+<img width="197" height="66" alt="query8_result" src="https://github.com/user-attachments/assets/49fd491b-1b64-471b-a9eb-bef37baf73fd" />
 
 9.  Query 9 lists each country, its infant mortality, and its region, focusing on countries with infant mortality above the regional average whose languages do not contain the “an” pattern. 
-
 Query 9 highlights countries with poor health outcomes that deviate from typical linguistic patterns. These insights could help direct targeted health interventions or regional public health programs to areas with critical needs. 
 
 <img width="204" height="110" alt="query9" src="https://github.com/user-attachments/assets/2086e514-01ca-458c-8d1c-dca4b0797fba" />
+<img width="226" height="297" alt="query9_result" src="https://github.com/user-attachments/assets/27d468bb-8991-4ab3-b91e-a760fa4e6ed0" />
 
 10.  Query 10 lists each region, its average infant mortality, and average maternal mortality. 
 Query 10 identifies regions with the worst health outcomes. This information could guide the allocation of healthcare resources or international aid, prioritizing regions with high mortality rates for intervention programs.  
 
 <img width="242" height="130" alt="query10" src="https://github.com/user-attachments/assets/8848a8f9-c88a-4b9d-94e1-eb63e6ea2afb" />
+<img width="264" height="67" alt="query10_result" src="https://github.com/user-attachments/assets/8d4bf014-54f5-4e73-9578-6ae11bc4e80d" />
 
 
 
