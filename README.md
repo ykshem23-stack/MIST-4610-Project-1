@@ -12,7 +12,7 @@ This project presents a comprehensive relational database model that organizes a
 
 
 
-https://github.com/user-attachments/assets/43e1516f-acd0-4103-a22e-c00376b4a37b
+![IMAGE](https://github.com/user-attachments/assets/43e1516f-acd0-4103-a22e-c00376b4a37b)
 
 
 ## Data Dictionary
