@@ -101,8 +101,8 @@ Query 9 highlights countries with poor health outcomes that deviate from typical
 10.  Query 10 lists each region, its average infant mortality, and average maternal mortality. 
 Query 10 identifies regions with the worst health outcomes. This information could guide the allocation of healthcare resources or international aid, prioritizing regions with high mortality rates for intervention programs.  
 
-<img width="242" height="130" alt="query10" src="https://github.com/user-attachments/assets/8848a8f9-c88a-4b9d-94e1-eb63e6ea2afb" />
-<img width="264" height="67" alt="query10_result" src="https://github.com/user-attachments/assets/8d4bf014-54f5-4e73-9578-6ae11bc4e80d" />
+<img width="484" height="260" alt="query10" src="https://github.com/user-attachments/assets/8848a8f9-c88a-4b9d-94e1-eb63e6ea2afb" />
+<img width="528" height="134" alt="query10_result" src="https://github.com/user-attachments/assets/8d4bf014-54f5-4e73-9578-6ae11bc4e80d" />
 
 
 
