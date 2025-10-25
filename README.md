@@ -48,8 +48,6 @@ Overall, this model provides a complete and relational view of global data, conn
 1.  Query 1 lists the region name, the inflation category (High or Low), the number of countries in each category, and CPI statistics.
 Query 1 helps analysts see which regions are experiencing high or low inflation relative to the global average. This information could guide economic policy decisions or investment strategies, highlighting regions where inflation is most severe or stable.
 
-<img width="534" height="363" alt="query1" src="https://github.com/user-attachments/assets/baefeff3-ae95-4a0e-b962-94b94da64659" />
-
 <img width="519" height="519" alt="query1" src="https://github.com/user-attachments/assets/bd889f10-d8ad-452f-87b4-e72fa992bdcd" />
 <img width="543" height="330" alt="query1_result" src="https://github.com/user-attachments/assets/f90eac01-23c3-4139-b272-5b12d20eafb5" />
 
