@@ -27,6 +27,7 @@ Overall, this model provides a complete and relational view of global data, conn
 
 <img width="537" height="212" alt="table_labor" src="https://github.com/user-attachments/assets/a95d6b5e-7590-40ab-ad16-93511c27dc74" />
 
+
 <img width="540" height="284" alt="table_econ" src="https://github.com/user-attachments/assets/84256fd1-137b-4720-8745-5924f27dd31e" />
 
 <img width="539" height="185" alt="table_educ" src="https://github.com/user-attachments/assets/a6408cca-6995-4110-b506-c17e3a9bce42" />
