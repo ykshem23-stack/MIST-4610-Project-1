@@ -54,6 +54,7 @@ Query 1 helps analysts see which regions are experiencing high or low inflation 
 Query 2 provides insight into the relationship between educational investment and economic outcomes by region. By identifying whether higher education levels correlate with higher wages, policymakers or international organizations can better target initiatives to improve economic performance.
 
 <img width="391" height="349" alt="query2" src="https://github.com/user-attachments/assets/78913cd2-fa36-47ff-a73c-afdcc6fef06e" />
+<img width="508" height="302" alt="query2_result" src="https://github.com/user-attachments/assets/1b6e8611-fcc1-4da1-bd52-477ba295f165" />
 
 3.  Query 3 lists each country, its GDP, carbon emissions, and GDP per ton of carbon emitted. 
 Query 3 evaluates economic efficiency in relation to environmental impact. This analysis could inform sustainability programs or investment in green technologies by showing which countries produce higher GDP per unit of pollution.
