@@ -34,7 +34,7 @@ This project presents a comprehensive relational database model that organizes a
 <img width="528" height="191" alt="table_currency_has_country" src="https://github.com/user-attachments/assets/2cb1259e-a767-467a-bb66-36587b467479" />
 
 ## Queries
-![IMAGE](<img width="608" height="265" alt="query_feature" src="https://github.com/user-attachments/assets/d94f797d-9e04-4972-be29-5982f881d3c2" />)
+![IMAGE](<https://github.com/user-attachments/assets/d94f797d-9e04-4972-be29-5982f881d3c2)
 
 
 
