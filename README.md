@@ -83,7 +83,7 @@ Query 6 identifies the top environmentally sustainable countries per region. The
 7.  Query 7 lists each country, GDP, GDP per population density, and a density category (Above or Below Average). 
 Query 7 explores how population concentration affects economic output. This information could assist in urban planning, infrastructure development, or population management policies by showing where high density correlates with economic efficiency. 
 
-<img width="343.2" height="265.2" alt="query7" src="https://github.com/user-attachments/assets/c9b8735e-828d-4ece-a97d-dae3462befb7" />
+<img width="377.52" height="291.72" alt="query7" src="https://github.com/user-attachments/assets/c9b8735e-828d-4ece-a97d-dae3462befb7" />
 <img width="473" height="298" alt="query7_result" src="https://github.com/user-attachments/assets/7a50339c-d20c-435d-834a-089761e6637d" />
 
 8.  Query 8 lists each currency, and the average GDP of countries using that currency. 
