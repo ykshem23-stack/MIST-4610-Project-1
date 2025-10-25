@@ -6,7 +6,15 @@
 - Ivan Jaiwant
 - Yusuf Kshem
 ## Data Model
-This project presents a comprehensive relational database model that organizes and connects key social, economic, environmental, and cultural data across global regions and their respective countries. The model is built around a hierarchical structure linking regions, countries, and cities, allowing for an integrated view of global relationships. Each country serves as the central entity in the schema and is connected through one-to-one relationships to detailed national-level tables, including Economy, Education, Health, Demographics, Environment, and Labor Force. These tables store critical indicators such as GDP, education enrollment rates, population density, and mortality statistics, enabling multidimensional analysis of development and performance across nations. In addition, the model incorporates many-to-many relationships with Language and Currency entities, reflecting the cultural and financial interconnections between countries. Through a set of analytical SQL queries, the project enables exploration of relationships between key factors such as education and wages, GDP and environmental efficiency, tax rates and economic growth, and population density and productivity. Overall, this database provides a powerful framework for global data analysis, supporting insights into economic trends, sustainability efforts, and cross-regional development patterns.
+Our model is based on the structure of global regions and the countries that belong to them. The Region entity represents large geographic areas across the world, containing attributes such as regionID, regionName, areaSqKm, climateZone, and description. Each region contains many countries, which is why there is a one-to-many relationship between the Region and Country entities.
+
+The Country table serves as the central component of the model. It includes each country’s countryID, countryName, countryAbbreviation, population, and region_regionID (a foreign key referencing Region). Because countries can contain multiple free-associated states, there is a one-to-many relationship between the Country and Free_Associated_State entities. Each country also has multiple cities, represented through a one-to-many relationship between the Country and City entities. The City table includes attributes such as cityCode, cityName, isCapital, and isLargestCity, identifying whether a city is the capital or the largest in its country.
+
+Each country in the model contains a variety of national-level data that is stored across multiple connected tables. These include Demographics, Labor_Force, Economy, Education, Health, and Environment, all of which have a one-to-one relationship with the Country table. The Demographics table captures gender distribution statistics such as malePercentage and femalePercentage within the population. The Labor_Force table provides information about the totalLaborForce and unemploymentRate for each country. The Economy table stores national economic indicators, including GDP, minWageUSD, CPI, CPIChange, taxRevenue, and totalTaxRate. The Education table records enrollment rates for grossPrimaryEducEnroll and grossTertiaryEducEnroll, while the Health table stores key measures such as infantMortality, maternalMortality, lifeExpectancy, and birthRate. Lastly, the Environment table holds information related to environmental conditions, such as agriculturalLand, forestedArea, co2Emissions, landAreaSqKm, and densityPerSqrKm.
+
+Countries are also linked to both the Primary_Language and Currency entities through associative tables to capture many-to-many relationships. The Primary_Language_has_Country table allows multiple countries to share the same language while also allowing a single country to have several official languages. Similarly, the Currency_has_Country table connects countries to the currencies they use, since some nations share the same currency and others recognize more than one.
+
+Overall, this model provides a complete and relational view of global data, connecting regions, countries, and their key social, economic, environmental, and cultural attributes. It enables meaningful exploration of how national characteristics relate to one another across regions of the world.
 ![IMAGE](https://github.com/user-attachments/assets/43e1516f-acd0-4103-a22e-c00376b4a37b)
 ## Data Dictionary
 <img width="536" height="234" alt="Table_region" src="https://github.com/user-attachments/assets/1c6ee8e8-baf6-42e7-8101-491418bf9e94" />
@@ -35,6 +43,11 @@ This project presents a comprehensive relational database model that organizes a
 
 ## Queries
 <img width="668.8" height="291.5" alt="query_feature" src="https://github.com/user-attachments/assets/64bb060a-b395-4503-83b4-f8cf872aa03e" />
+1.  Query 1 lists the region name, the inflation category (High or Low), the number of countries in each category, and CPI statistics.
+Query 1 helps analysts see which regions are experiencing high or low inflation relative to the global average. This information could guide economic policy decisions or investment strategies, highlighting regions where inflation is most severe or stable.
+
+
+
 
 
 
