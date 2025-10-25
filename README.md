@@ -71,7 +71,7 @@ Query 4 examines whether higher taxes suppress economic growth. This could influ
 5.  Query 5 lists each country, its population, GDP, and GDP per capita. 
 Query 5 measures economic output per person, helping analysts compare living standards or evaluate economic efficiency. These insights can support development planning or global market assessments.
 
-<img width="530.4" height="384.8" alt="query5" src="https://github.com/user-attachments/assets/c00a8afe-e83b-4c1c-8096-58c38f437727" />
+<img width="477.36" height="346.32" alt="query5" src="https://github.com/user-attachments/assets/c00a8afe-e83b-4c1c-8096-58c38f437727" />
 <img width="299" height="296" alt="query5_result" src="https://github.com/user-attachments/assets/d20ec1df-0a1b-4320-9418-a7df1a23d909" />
 
 6.  Query 6 lists each country, its sustainability score, normalized score within its region, and rank in the region. 
