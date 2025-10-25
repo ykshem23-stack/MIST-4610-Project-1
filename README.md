@@ -20,18 +20,6 @@ This project presents a comprehensive relational database model that organizes a
 ## Queries
 
 
-## Visualizations
-
-
-
-### Nurses and Patients per Ward
-
-
-### Appointments and Revenue by Year
--
-
-### Lab Tests and Results
-
 
 ## Database Info
 
