@@ -77,7 +77,7 @@ Query 5 measures economic output per person, helping analysts compare living sta
 6.  Query 6 lists each country, its sustainability score, normalized score within its region, and rank in the region. 
 Query 6 identifies the top environmentally sustainable countries per region. The results could guide ecological initiatives, international aid programs, or investment in countries with strong environmental management practices. 
 
-<img width="208" height="110" alt="query6" src="https://github.com/user-attachments/assets/a331483d-d8cf-4b9f-8e48-69742a26485a" />
+<img width="416" height="220" alt="query6" src="https://github.com/user-attachments/assets/a331483d-d8cf-4b9f-8e48-69742a26485a" />
 <img width="379" height="299" alt="query6_result" src="https://github.com/user-attachments/assets/038db7ff-b294-4373-81b2-2cf2ef0f7007" />
 
 7.  Query 7 lists each country, GDP, GDP per population density, and a density category (Above or Below Average). 
@@ -89,13 +89,13 @@ Query 7 explores how population concentration affects economic output. This info
 8.  Query 8 lists each currency, and the average GDP of countries using that currency. 
 Query 8 highlights which currencies are associated with the highest economic output. This can inform investment decisions, currency risk analysis, and international economic comparisons. 
 
-<img width="263" height="111" alt="query8" src="https://github.com/user-attachments/assets/74ecf6e5-5904-4900-8c87-42544fca1d8f" />
-<img width="197" height="66" alt="query8_result" src="https://github.com/user-attachments/assets/49fd491b-1b64-471b-a9eb-bef37baf73fd" />
+<img width="526" height="222" alt="query8" src="https://github.com/user-attachments/assets/74ecf6e5-5904-4900-8c87-42544fca1d8f" />
+<img width="394" height="132" alt="query8_result" src="https://github.com/user-attachments/assets/49fd491b-1b64-471b-a9eb-bef37baf73fd" />
 
 9.  Query 9 lists each country, its infant mortality, and its region, focusing on countries with infant mortality above the regional average whose languages do not contain the “an” pattern. 
 Query 9 highlights countries with poor health outcomes that deviate from typical linguistic patterns. These insights could help direct targeted health interventions or regional public health programs to areas with critical needs. 
 
-<img width="204" height="110" alt="query9" src="https://github.com/user-attachments/assets/2086e514-01ca-458c-8d1c-dca4b0797fba" />
+<img width="408" height="220" alt="query9" src="https://github.com/user-attachments/assets/2086e514-01ca-458c-8d1c-dca4b0797fba" />
 <img width="226" height="297" alt="query9_result" src="https://github.com/user-attachments/assets/27d468bb-8991-4ab3-b91e-a760fa4e6ed0" />
 
 10.  Query 10 lists each region, its average infant mortality, and average maternal mortality. 
