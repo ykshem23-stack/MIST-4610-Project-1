@@ -95,7 +95,7 @@ Query 8 highlights which currencies are associated with the highest economic out
 9.  Query 9 lists each country, its infant mortality, and its region, focusing on countries with infant mortality above the regional average whose languages do not contain the “an” pattern. 
 Query 9 highlights countries with poor health outcomes that deviate from typical linguistic patterns. These insights could help direct targeted health interventions or regional public health programs to areas with critical needs. 
 
-<img width="408" height="220" alt="query9" src="https://github.com/user-attachments/assets/2086e514-01ca-458c-8d1c-dca4b0797fba" />
+<img width="530.4" height="286" alt="query9" src="https://github.com/user-attachments/assets/2086e514-01ca-458c-8d1c-dca4b0797fba" />
 <img width="226" height="297" alt="query9_result" src="https://github.com/user-attachments/assets/27d468bb-8991-4ab3-b91e-a760fa4e6ed0" />
 
 10.  Query 10 lists each region, its average infant mortality, and average maternal mortality. 
