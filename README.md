@@ -77,7 +77,7 @@ Query 5 measures economic output per person, helping analysts compare living sta
 6.  Query 6 lists each country, its sustainability score, normalized score within its region, and rank in the region. 
 Query 6 identifies the top environmentally sustainable countries per region. The results could guide ecological initiatives, international aid programs, or investment in countries with strong environmental management practices. 
 
-<img width="299.2" height="264" alt="query6" src="https://github.com/user-attachments/assets/a331483d-d8cf-4b9f-8e48-69742a26485a" />
+<img width="600" height="528" alt="query6" src="https://github.com/user-attachments/assets/a331483d-d8cf-4b9f-8e48-69742a26485a" />
 <img width="379" height="299" alt="query6_result" src="https://github.com/user-attachments/assets/038db7ff-b294-4373-81b2-2cf2ef0f7007" />
 
 7.  Query 7 lists each country, GDP, GDP per population density, and a density category (Above or Below Average). 
