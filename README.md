@@ -15,7 +15,8 @@ Each country in the model contains a variety of national-level data that is stor
 Countries are also linked to both the Primary_Language and Currency entities through associative tables to capture many-to-many relationships. The Primary_Language_has_Country table allows multiple countries to share the same language while also allowing a single country to have several official languages. Similarly, the Currency_has_Country table connects countries to the currencies they use, since some nations share the same currency and others recognize more than one.
 
 Overall, this model provides a complete and relational view of global data, connecting regions, countries, and their key social, economic, environmental, and cultural attributes. It enables meaningful exploration of how national characteristics relate to one another across regions of the world.
-![IMAGE](https://github.com/user-attachments/assets/43e1516f-acd0-4103-a22e-c00376b4a37b)
+![IMAGE](https://github.com/user-attachments/assets/4c979f9b-ba15-4d37-a2f3-4e514b1ff4eb)
+
 ## Data Dictionary
 <img width="536" height="234" alt="Table_region" src="https://github.com/user-attachments/assets/1c6ee8e8-baf6-42e7-8101-491418bf9e94" />
 
