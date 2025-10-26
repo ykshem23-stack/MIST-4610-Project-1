@@ -53,22 +53,25 @@ Query 1 helps analysts see which regions are experiencing high or low inflation 
 <img width="488.7" height="297" alt="query1_result" src="https://github.com/user-attachments/assets/83dabf85-929c-4575-a9df-9fa9bd97fb1e" />
 
 2.  Query 2 lists the region name, education tier (Low, Mixed, High), the number of countries in each tier, average minimum wage, and average primary and tertiary enrollment. 
+
 Query 2 provides insight into the relationship between educational investment and economic outcomes by region. By identifying whether higher education levels correlate with higher wages, policymakers or international organizations can better target initiatives to improve economic performance.
 
 <img width="391" height="349" alt="query2" src="https://github.com/user-attachments/assets/78913cd2-fa36-47ff-a73c-afdcc6fef06e" />
 <img width="508" height="302" alt="query2_result" src="https://github.com/user-attachments/assets/1b6e8611-fcc1-4da1-bd52-477ba295f165" />
 
 3.  Query 3 lists each country, its GDP, carbon emissions, and GDP per ton of carbon emitted. 
+
 Query 3 evaluates economic efficiency in relation to environmental impact. This analysis could inform sustainability programs or investment in green technologies by showing which countries produce higher GDP per unit of pollution.
 
 <img width="520.4" height="436" alt="query 3" src="https://github.com/user-attachments/assets/7d517ea3-7cfc-4635-a390-b51e3f245a1d" />
 <img width="338" height="294" alt="query3_result" src="https://github.com/user-attachments/assets/f0d6ce2f-16d8-46f5-b964-dc532cfbda75" />
 
 4.  Query 4 lists each country, its GDP, GDP per tax percentage, and a tax category (High or Low). 
+
 Query 4 examines whether higher taxes suppress economic growth. This could influence fiscal policy decisions or corporate investment strategies by highlighting countries where tax burden corresponds with economic performance.
 
 <img width="374.4" height="284.4" alt="query4" src="https://github.com/user-attachments/assets/72d8cd9b-3a24-4b10-b40d-0ed05b7f3312" />
-<img width="386" height="296" alt="query4_result" src="https://github.com/user-attachments/assets/2019a620-7a27-4b1f-9867-45cb552bb7b6" />
+<img width="384" height="295" alt="query4_result" src="https://github.com/user-attachments/assets/a249883d-448e-4b87-961a-c5aa252774c0" />
 
 5.  Query 5 lists each country, its population, GDP, and GDP per capita. 
 Query 5 measures economic output per person, helping analysts compare living standards or evaluate economic efficiency. These insights can support development planning or global market assessments.
