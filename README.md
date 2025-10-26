@@ -50,14 +50,14 @@ Overall, this model provides a complete and relational view of global data, conn
 Query 1 helps analysts see which regions are experiencing high or low inflation relative to the global average. This information could guide economic policy decisions or investment strategies, highlighting regions where inflation is most severe or stable.
 
 <img width="467.1" height="467.1" alt="query1" src="https://github.com/user-attachments/assets/be256fcc-18db-4ce9-beec-9d8acbcec2a2" />
-<img width="488.7" height="297" alt="query1_result" src="https://github.com/user-attachments/assets/83dabf85-929c-4575-a9df-9fa9bd97fb1e" />
+<img width="488.7" height="297" alt="query1_result" src="https://github.com/user-attachments/assets/547b9668-01f9-48da-8177-0dc105f05533" />
 
 2.  Query 2 lists the region name, education tier (Low, Mixed, High), the number of countries in each tier, average minimum wage, and average primary and tertiary enrollment. 
 
 Query 2 provides insight into the relationship between educational investment and economic outcomes by region. By identifying whether higher education levels correlate with higher wages, policymakers or international organizations can better target initiatives to improve economic performance.
 
 <img width="391" height="349" alt="query2" src="https://github.com/user-attachments/assets/78913cd2-fa36-47ff-a73c-afdcc6fef06e" />
-<img width="508" height="302" alt="query2_result" src="https://github.com/user-attachments/assets/1b6e8611-fcc1-4da1-bd52-477ba295f165" />
+<img width="508" height="297" alt="query2_result" src="https://github.com/user-attachments/assets/78c33619-f912-4a5a-a160-b4f9cc627cf7" />
 
 3.  Query 3 lists each country, its GDP, carbon emissions, and GDP per ton of carbon emitted. 
 
@@ -74,28 +74,32 @@ Query 4 examines whether higher taxes suppress economic growth. This could influ
 <img width="384" height="295" alt="query4_result" src="https://github.com/user-attachments/assets/a249883d-448e-4b87-961a-c5aa252774c0" />
 
 5.  Query 5 lists each country, its population, GDP, and GDP per capita. 
+
 Query 5 measures economic output per person, helping analysts compare living standards or evaluate economic efficiency. These insights can support development planning or global market assessments.
 
 <img width="381.88" height="277.05" alt="query5" src="https://github.com/user-attachments/assets/c00a8afe-e83b-4c1c-8096-58c38f437727" />
 <img width="299" height="296" alt="query5_result" src="https://github.com/user-attachments/assets/0edf7e9a-209a-499e-93c7-135d86399c4d" />
 
 6.  Query 6 lists each country, its sustainability score, normalized score within its region, and rank in the region. 
+
 Query 6 identifies the top environmentally sustainable countries per region. The results could guide ecological initiatives, international aid programs, or investment in countries with strong environmental management practices. 
 
 <img width="630.5" height="410.8" alt="query6" src="https://github.com/user-attachments/assets/dddbdcb6-34b1-4869-84ef-5ff8ff4f0583" />
-<img width="379" height="299" alt="query6_result" src="https://github.com/user-attachments/assets/038db7ff-b294-4373-81b2-2cf2ef0f7007" />
+<img width="377" height="295" alt="query6_result" src="https://github.com/user-attachments/assets/def90f3c-7e60-453b-a451-9f1ddc4f6298" />
 
 7.  Query 7 lists each country, GDP, GDP per population density, and a density category (Above or Below Average). 
+
 Query 7 explores how population concentration affects economic output. This information could assist in urban planning, infrastructure development, or population management policies by showing where high density correlates with economic efficiency. 
 
 <img width="377.52" height="291.72" alt="query7" src="https://github.com/user-attachments/assets/c9b8735e-828d-4ece-a97d-dae3462befb7" />
-<img width="473" height="298" alt="query7_result" src="https://github.com/user-attachments/assets/7a50339c-d20c-435d-834a-089761e6637d" />
+<img width="475" height="293" alt="query7_result" src="https://github.com/user-attachments/assets/b37f438e-288f-4f0a-b54c-b9fdaa5321ad" />
 
 8.  Query 8 lists each currency, and the average GDP of countries using that currency. 
+
 Query 8 highlights which currencies are associated with the highest economic output. This can inform investment decisions, currency risk analysis, and international economic comparisons. 
 
 <img width="526" height="222" alt="query8" src="https://github.com/user-attachments/assets/74ecf6e5-5904-4900-8c87-42544fca1d8f" />
-<img width="394" height="132" alt="query8_result" src="https://github.com/user-attachments/assets/49fd491b-1b64-471b-a9eb-bef37baf73fd" />
+<img width="394" height="132" alt="query8_result" src="https://github.com/user-attachments/assets/0f9305ee-bb00-4e4e-b2b6-e68f5e42acbb" />
 
 9.  Query 9 lists each country, its infant mortality, and its region, focusing on countries with infant mortality above the regional average whose languages do not contain the “an” pattern. 
 Query 9 highlights countries with poor health outcomes that deviate from typical linguistic patterns. These insights could help direct targeted health interventions or regional public health programs to areas with critical needs. 
