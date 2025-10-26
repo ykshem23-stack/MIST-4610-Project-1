@@ -121,3 +121,7 @@ Query 10 identifies regions with the worst health outcomes. This information cou
 ## Database Info
 Name of the database: cs_yrk51993
 
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL Group2_Qx();
+
+Where 'x' refers to the Query number.
+
