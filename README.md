@@ -79,7 +79,7 @@ Query 5 measures economic output per person, helping analysts compare living sta
 6.  Query 6 lists each country, its sustainability score, normalized score within its region, and rank in the region. 
 Query 6 identifies the top environmentally sustainable countries per region. The results could guide ecological initiatives, international aid programs, or investment in countries with strong environmental management practices. 
 
-<img width="600" height="528" alt="query6" src="https://github.com/user-attachments/assets/a331483d-d8cf-4b9f-8e48-69742a26485a" />
+<img width="630.5" height="410.8" alt="query6" src="https://github.com/user-attachments/assets/dddbdcb6-34b1-4869-84ef-5ff8ff4f0583" />
 <img width="379" height="299" alt="query6_result" src="https://github.com/user-attachments/assets/038db7ff-b294-4373-81b2-2cf2ef0f7007" />
 
 7.  Query 7 lists each country, GDP, GDP per population density, and a density category (Above or Below Average). 
@@ -97,13 +97,13 @@ Query 8 highlights which currencies are associated with the highest economic out
 9.  Query 9 lists each country, its infant mortality, and its region, focusing on countries with infant mortality above the regional average whose languages do not contain the “an” pattern. 
 Query 9 highlights countries with poor health outcomes that deviate from typical linguistic patterns. These insights could help direct targeted health interventions or regional public health programs to areas with critical needs. 
 
-<img width="530.4" height="286" alt="query9" src="https://github.com/user-attachments/assets/2086e514-01ca-458c-8d1c-dca4b0797fba" />
+<img width="538.5" height="451.5" alt="query9" src="https://github.com/user-attachments/assets/32d9d80d-8410-415d-b7b1-9f90cefb951d" />
 <img width="226" height="297" alt="query9_result" src="https://github.com/user-attachments/assets/27d468bb-8991-4ab3-b91e-a760fa4e6ed0" />
 
 10.  Query 10 lists each region, its average infant mortality, and average maternal mortality. 
 Query 10 identifies regions with the worst health outcomes. This information could guide the allocation of healthcare resources or international aid, prioritizing regions with high mortality rates for intervention programs.  
 
-<img width="484" height="260" alt="query10" src="https://github.com/user-attachments/assets/8848a8f9-c88a-4b9d-94e1-eb63e6ea2afb" />
+<img width="484" height="260" alt="query10" src="https://github.com/user-attachments/assets/d08a00b2-2fc0-4f96-b60b-084ae95ef009" />
 <img width="422.4" height="107.2" alt="query10_result" src="https://github.com/user-attachments/assets/8d4bf014-54f5-4e73-9578-6ae11bc4e80d" />
 
 
