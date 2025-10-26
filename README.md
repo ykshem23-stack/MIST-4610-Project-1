@@ -110,4 +110,5 @@ Query 10 identifies regions with the worst health outcomes. This information cou
 
 
 ## Database Info
+Name of the database: cs_yrk51993
 
