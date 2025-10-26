@@ -102,12 +102,14 @@ Query 8 highlights which currencies are associated with the highest economic out
 <img width="394" height="132" alt="query8_result" src="https://github.com/user-attachments/assets/0f9305ee-bb00-4e4e-b2b6-e68f5e42acbb" />
 
 9.  Query 9 lists each country, its infant mortality, and its region, focusing on countries with infant mortality above the regional average whose languages do not contain the “an” pattern. 
+
 Query 9 highlights countries with poor health outcomes that deviate from typical linguistic patterns. These insights could help direct targeted health interventions or regional public health programs to areas with critical needs. 
 
 <img width="538.5" height="451.5" alt="query9" src="https://github.com/user-attachments/assets/32d9d80d-8410-415d-b7b1-9f90cefb951d" />
-<img width="226" height="297" alt="query9_result" src="https://github.com/user-attachments/assets/27d468bb-8991-4ab3-b91e-a760fa4e6ed0" />
+<img width="339" height="445.5" alt="query9_result" src="https://github.com/user-attachments/assets/27d468bb-8991-4ab3-b91e-a760fa4e6ed0" />
 
 10.  Query 10 lists each region, its average infant mortality, and average maternal mortality. 
+
 Query 10 identifies regions with the worst health outcomes. This information could guide the allocation of healthcare resources or international aid, prioritizing regions with high mortality rates for intervention programs.  
 
 <img width="484" height="260" alt="query10" src="https://github.com/user-attachments/assets/d08a00b2-2fc0-4f96-b60b-084ae95ef009" />
