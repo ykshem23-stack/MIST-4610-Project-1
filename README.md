@@ -49,8 +49,8 @@ Overall, this model provides a complete and relational view of global data, conn
 1.  Query 1 lists the region name, the inflation category (High or Low), the number of countries in each category, and CPI statistics.
 Query 1 helps analysts see which regions are experiencing high or low inflation relative to the global average. This information could guide economic policy decisions or investment strategies, highlighting regions where inflation is most severe or stable.
 
-<img width="467.1" height="467.1" alt="query1_result" src="https://github.com/user-attachments/assets/83dabf85-929c-4575-a9df-9fa9bd97fb1e" />
-<img width="488.7" height="297" alt="query1_result" src="https://github.com/user-attachments/assets/f90eac01-23c3-4139-b272-5b12d20eafb5" />
+<img width="467.1" height="467.1" alt="query1" src="https://github.com/user-attachments/assets/be256fcc-18db-4ce9-beec-9d8acbcec2a2" />
+<img width="488.7" height="297" alt="query1_result" src="https://github.com/user-attachments/assets/83dabf85-929c-4575-a9df-9fa9bd97fb1e" />
 
 2.  Query 2 lists the region name, education tier (Low, Mixed, High), the number of countries in each tier, average minimum wage, and average primary and tertiary enrollment. 
 Query 2 provides insight into the relationship between educational investment and economic outcomes by region. By identifying whether higher education levels correlate with higher wages, policymakers or international organizations can better target initiatives to improve economic performance.
