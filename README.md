@@ -62,7 +62,7 @@ Query 2 provides insight into the relationship between educational investment an
 Query 3 evaluates economic efficiency in relation to environmental impact. This analysis could inform sustainability programs or investment in green technologies by showing which countries produce higher GDP per unit of pollution.
 
 <img width="520.4" height="436" alt="query 3" src="https://github.com/user-attachments/assets/7d517ea3-7cfc-4635-a390-b51e3f245a1d" />
-<img width="338" height="296" alt="query3_result" src="https://github.com/user-attachments/assets/91a1e61a-b84f-4235-b2d6-cd99b828b0e2" />
+<img width="338" height="294" alt="query3_result" src="https://github.com/user-attachments/assets/f0d6ce2f-16d8-46f5-b964-dc532cfbda75" />
 
 4.  Query 4 lists each country, its GDP, GDP per tax percentage, and a tax category (High or Low). 
 Query 4 examines whether higher taxes suppress economic growth. This could influence fiscal policy decisions or corporate investment strategies by highlighting countries where tax burden corresponds with economic performance.
